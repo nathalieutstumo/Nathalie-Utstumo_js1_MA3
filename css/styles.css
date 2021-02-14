@@ -1,0 +1,19 @@
+main {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 16%;
+  padding: 15px;
+  margin: 13px;
+  background-color: black;
+  color: #33ff00;
+  box-shadow: 4px 4px 6px #33ff00;
+}
+
+.hide {
+  display: none;
+}
